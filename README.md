@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @TadeuszCzyzycki
+- 👀 I’m interested in  self-improvement
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on small group
+- 📫 How to reach me tadeusz.czyzyzcki98@gmail.com
